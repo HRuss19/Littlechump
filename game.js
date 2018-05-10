@@ -2,7 +2,7 @@
 
 function createGameState(){
     var game = {};
-
+// hi
     game.score = 0;
 
     game.isDead = false;
